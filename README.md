@@ -4,7 +4,7 @@
 Currently implemented:
 1. actor_stats.py
 
-   Example (Tom Cruise):
+   Example (David Carradine):
    
 ![Tom Cruise IMDB scores when he's top billed actor](https://i.imgur.com/zuxC4I6.png)
 
