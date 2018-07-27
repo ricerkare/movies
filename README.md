@@ -4,7 +4,7 @@
 Currently implemented:
 1. tom_cruise.py
 
-   Given his recent successes with Edge of Tomorrow and (apparently) Mission Impossible, I was curious to see if his movies were getting better over time. The answer is slightly yes, with a good consistency all the way back to the 1980s:
+   Given his recent successes with Edge of Tomorrow and (apparently) Mission Impossible, I was curious to see if his movies were getting better over time. The answer is slightly yes, with a good consistency all the way back to the 1990s:
 
 ![Tom Cruise IMDB scores when he's top billed actor](https://i.imgur.com/0aCN8nw.png)
 
