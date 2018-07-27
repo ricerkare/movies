@@ -6,6 +6,6 @@ Currently implemented:
 
    Example (Tom Cruise):
    
-![Tom Cruise IMDB scores when he's top billed actor](https://i.imgur.com/0aCN8nw.png)
+![Tom Cruise IMDB scores when he's top billed actor](https://i.imgur.com/zuxC4I6.png)
 
 The code as written is fairly general - all that is required to change actors is a new baseline IMDB page. By default, only leading roles are considered; to change this, set only_leading to False.
